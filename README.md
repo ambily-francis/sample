@@ -1,2 +1,2 @@
 # program
-Class assignment of FJSD course
+Class assignment of FSD course
